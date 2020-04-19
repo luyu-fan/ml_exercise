@@ -12,7 +12,7 @@
 Data Processing
 Normalization, Augmentation
 
-@Result:
+@Result: Bad result, Only 43% acc in validation after 20 epochs.
 """
 
 import torch as torch
